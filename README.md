@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nagesh Kumar
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me www.thenagesh.com Or designer.nagesh@gmail.com Or 9030040302
 
